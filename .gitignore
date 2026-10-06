@@ -1,0 +1,9 @@
+node_modules/
+playwright-report/
+test-results/
+.env
+reports/html/*
+reports/logs/*
+reports/run-report/*
+reports/screenshots/*
+!reports/**/README.txt

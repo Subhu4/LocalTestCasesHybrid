@@ -1,0 +1,107 @@
+{
+  "TS_0061": {
+    "url": "https://www.exportersindia.com/",
+    "entryPoint": "Post Buy Requirement"
+  },
+  "TS_0062": {
+    "product": "Office Chairs",
+    "interestedIn": "Computer Chairs",
+    "quantity": "25",
+    "unit": "Piece",
+    "supplierPreference": "All India",
+    "mobileNumber": "8070987890"
+  },
+  "TS_0063": {
+    "product": "",
+    "quantity": "25",
+    "unit": "Piece",
+    "supplierPreference": "All India",
+    "mobileNumber": "8070987890"
+  },
+  "TS_0064": {
+    "product": "Office Chairs",
+    "interestedIn": "",
+    "quantity": "25",
+    "unit": "Piece",
+    "supplierPreference": "All India",
+    "mobileNumber": "8070987890"
+  },
+  "TS_0065": {
+    "product": "Office Chairs",
+    "interestedIn": "Computer Chairs",
+    "quantity": "",
+    "unit": "Piece",
+    "supplierPreference": "All India",
+    "mobileNumber": "8070987890"
+  },
+  "TS_0066": {
+    "product": "Office Chairs",
+    "interestedIn": "Computer Chairs",
+    "quantity": "0",
+    "unit": "Piece",
+    "supplierPreference": "All India",
+    "mobileNumber": "8070987890"
+  },
+  "TS_0067": {
+    "supplierPreferences": ["All India", "Near Me", "Specific States"]
+  },
+  "TS_0068": {
+    "supplierPreference": "Specific States",
+    "states": ["Andaman & Nicobar islands", "Andhra Pradesh", "Arunachal Pradesh"]
+  },
+  "TS_0069": {
+    "product": "Office Chairs",
+    "interestedIn": "Computer Chairs",
+    "quantity": "25",
+    "unit": "Piece",
+    "supplierPreference": "All India",
+    "mobileNumber": "12345"
+  },
+  "TS_0070": {
+    "url": "https://www.exportersindia.com/buyers/",
+    "text": "Call us : 9700-318-318"
+  },
+  "TS_0071": {
+    "text": "Access verified buy leads and trade leads by industry to connect with serious global buyers and grow your business faster."
+  },
+  "TS_0072": {
+    "menu": "For Buyer",
+    "options": ["Post Buy Requirement", "Browse Suppliers", "Manufacturers Directory", "Country Suppliers", "Buyer FAQ"]
+  },
+  "TS_0073": {
+    "section": "Explore Buy Leads by Industry",
+    "first": "Agricultural Products & Equipment",
+    "middle": "Textiles, Yarn & Fabrics",
+    "last": "Transportation & Logistics",
+    "count": 40
+  },
+  "TS_0074": {
+    "url": "https://www.exportersindia.com/buyers/agriculture.htm",
+    "heading": "Buyers for Agricultural Products & Equipment"
+  },
+  "TS_0075": {
+    "url": "https://www.exportersindia.com/buyers/textiles.htm",
+    "breadcrumb": "Buyers"
+  },
+  "TS_0076": {
+    "section": "Purchase Leads Across Popular Products",
+    "products": ["A4 Size Paper", "Anti Iron Gel", "Old Coins", "Cashew Nuts", "Turmeric Finger"]
+  },
+  "TS_0077": {
+    "url": "https://www.exportersindia.com/buyers/a4-size-copy-paper.htm",
+    "heading": "A4 Size Paper Buy Leads"
+  },
+  "TS_0078": {
+    "url": "https://www.exportersindia.com/buyers/",
+    "leads": ["First", "Fifth", "Tenth"]
+  },
+  "TS_0079": {
+    "url": "https://www.exportersindia.com/buyers/",
+    "maskedMobileFormat": "+91-88******83",
+    "leads": ["First", "Fifth", "Tenth"]
+  },
+  "TS_0080": {
+    "button": "Connect With Genuine Buyers",
+    "urlContains": "register-business-online?joinfree=buyleadstartsell"
+  }
+}

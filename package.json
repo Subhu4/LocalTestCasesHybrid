@@ -1,0 +1,22 @@
+{
+  "name": "exportersindia-playwright-hybrid-ms1-subham",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "set HEADED=true&&playwright test",
+    "test:headed:pwsh": "$env:HEADED='true'; playwright test",
+    "test:debug": "playwright test --debug",
+    "test:ui": "playwright test --ui",
+    "typecheck": "tsc --noEmit",
+    "report": "playwright show-report reports/html",
+    "test:requirements": "playwright test tests/requirementTests.spec.ts",
+    "test:buyers": "playwright test tests/buyersTests.spec.ts",
+    "test:registration": "playwright test tests/registrationTests.spec.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}
